@@ -1,18 +1,19 @@
-# RAG Assistant — Backend scripts
+# RAG-Based CLI Assistant
 
-This repository contains backend scripts for a RAG assistant. The main runnable script is `process_incoming.py`.
+A lightweight terminal-based Retrieval-Augmented Generation (RAG) assistant powered by local embeddings and LLM inference.
 
-## Prerequisites
+## Features
+- Local embeddings using `bge-m3`
+- Query understanding and similarity search with `cosine_similarity`
+- Dynamic prompt generation for context-aware responses
+- Writes outputs to `prompt.txt` and `response.txt`
+- Fully offline, runs on local Ollama or compatible model server
+
+## Requirements
 - Python 3.9+
-- Local model server running (embedding & generation) at `http://localhost:11434` (or update endpoints in the code).
-- `embeddings.joblib` file — place it locally (do **not** commit).
+- Local model server (e.g., [Ollama](https://ollama.ai)) running at `http://localhost:11434`
+- `embeddings.joblib` file in project root
 
-## Install dependencies
+## Installation
 ```bash
-python -m venv venv
-# Windows
-venv\Scripts\activate
-# macOS / Linux
-source venv/bin/activate
-
 pip install -r requirements.txt
