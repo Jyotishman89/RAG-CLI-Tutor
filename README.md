@@ -1,6 +1,6 @@
 # 🧠 RAG-CLI-Tutor
 
-A lightweight terminal-based Retrieval-Augmented Generation (RAG) based teaching assistant powered by local embeddings and LLM inference.
+A lightweight terminal-based Retrieval-Augmented Generation (RAG) teaching assistant powered by local embeddings and LLM inference.
 
 This is a small learning project that behaves like a miniature language model.  
 It can answer questions based on just four video transcripts using Retrieval-Augmented Generation (RAG).  
