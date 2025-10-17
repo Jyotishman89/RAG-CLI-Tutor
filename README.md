@@ -2,6 +2,11 @@
 
 A lightweight terminal-based Retrieval-Augmented Generation (RAG) assistant powered by local embeddings and LLM inference.
 
+This is a small learning project that behaves like a miniature language model.  
+It can answer questions based on just four videos using Retrieval-Augmented Generation (RAG).  
+
+I built it to understand embeddings, cosine similarity, and prompt-based generation in depth.  
+
 ## 🚀 Features
 - Local embeddings using `bge-m3`
 - Query understanding and similarity search with `cosine_similarity`
