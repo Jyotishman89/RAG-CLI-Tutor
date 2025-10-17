@@ -1,0 +1,23 @@
+# Python caches
+__pycache__/
+*.pyc
+
+# Virtual envs
+venv/
+.env/
+.venv/
+
+# Large / generated files (do NOT commit)
+embeddings.joblib
+*.joblib
+*.npy
+*.npz
+prompt.txt
+response.txt
+*.log
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
