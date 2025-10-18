@@ -3,7 +3,8 @@
 A lightweight terminal-based Retrieval-Augmented Generation (RAG) teaching assistant powered by local embeddings and LLM inference.
 
 This is a small learning project that behaves like a miniature language model.  
-It can answer questions based on just four video transcripts using Retrieval-Augmented Generation (RAG).  
+It can answer questions based on just four video transcripts using RAG(though the CLI isn’t very polished yet, but it works well for learning purposes).
+
 
 I built it to understand embeddings, cosine similarity, and prompt-based generation in depth.  
 
