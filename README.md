@@ -24,29 +24,3 @@ I built this project to deepen my understanding of **embeddings**, **cosine simi
 pip install -r requirements.txt
 ```
 
-## ✅ Project Progress
-
-Here’s a quick view of my RAG-CLI-Tutor development progress:
-
-### 🧱 Core Features
-- [x] Implement basic RAG pipeline (retriever + generator)
-- [x] Load and process local video transcripts
-- [x] Perform embedding creation and cosine similarity search
-- [x] Generate responses using LLM inference
-- [ ] Improve CLI interface and usability
-- [ ] Add error handling for empty or invalid input
-
-### 📈 Enhancements
-- [ ] Add more video transcripts to improve knowledge base
-- [ ] Support follow-up (contextual) questions
-- [ ] Add logging for better debugging
-- [ ] Optimize embedding storage for faster retrieval
-
-### 🧩 Documentation
-- [x] Write basic project README
-- [x] Add project description and goals
-- [ ] Add setup and usage instructions
-- [ ] Create a demo GIF or terminal screenshot
-
----
-*Progress will be updated as the project evolves!*
