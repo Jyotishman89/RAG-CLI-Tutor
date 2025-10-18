@@ -1,4 +1,4 @@
-# 🧠 RAG-CLI-Tutor
+# 🤖 RAG-CLI-Tutor
 
 A lightweight, terminal-based Retrieval-Augmented Generation (RAG) teaching assistant powered by local embeddings and LLM inference.
 
