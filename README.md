@@ -23,4 +23,4 @@ I built this project to deepen my understanding of **embeddings**, **cosine simi
 ```bash
 pip install -r requirements.txt
 ```
-
+---
