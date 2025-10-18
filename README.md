@@ -36,7 +36,7 @@ Here’s a quick view of my RAG-CLI-Tutor development progress:
 - [ ] Improve CLI interface and usability
 - [ ] Add error handling for empty or invalid input
 
-### 🧠 Enhancements
+### 📈 Enhancements
 - [ ] Add more video transcripts to improve knowledge base
 - [ ] Support follow-up (contextual) questions
 - [ ] Add logging for better debugging
