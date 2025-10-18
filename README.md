@@ -5,7 +5,7 @@ A lightweight, terminal-based Retrieval-Augmented Generation (RAG) teaching assi
 This is a small learning project that behaves like a miniature language model.
 It can answer questions based on just four video transcripts using RAG (though the CLI isn’t very polished yet, it works well for learning purposes).
 
-I built this project to deepen my understanding of embeddings, cosine similarity, and prompt-based generation.  
+I built this project to deepen my understanding of **embeddings**, **cosine similarity**, and **prompt-based generation**.  
 
 ## 🚀 Features
 - Local embeddings using `bge-m3`
