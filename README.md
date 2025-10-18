@@ -33,7 +33,7 @@ Here’s a quick view of my RAG-CLI-Tutor development progress:
 - [x] Load and process local video transcripts
 - [x] Perform embedding creation and cosine similarity search
 - [x] Generate responses using LLM inference
-- [ ] Improve CLI interface and usability
+- [x] Improve CLI interface and usability
 - [ ] Add error handling for empty or invalid input
 
 ### 🧠 Enhancements
